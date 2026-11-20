@@ -15,7 +15,7 @@ When you run the tool, a clean logo appears, you type a username, and it checks 
 - **CSV export** with one click
 - 15 popular platforms supported
 - No API keys required
-- MIT License – ready for public GitHub
+- MIT License
 
 ---
 
@@ -54,7 +54,7 @@ When you run the tool, a clean logo appears, you type a username, and it checks 
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/username-availability-checker.git
+git clone https://github.com/rslivecode/username-availability-checker.git
 cd username-availability-checker
 
 # Recommended: create a virtual environment
